@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## King's Parking Garage
+
+This is a multi-storey parking system for different owner like Regular, Elderly, and Royal;
+
+Select "IN" or "OUT" and enter the vehicle details.
+
 ## Available Scripts
 
 In the project directory, you can run:
